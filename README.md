@@ -7,7 +7,7 @@
 - 📫 How to reach me. [wuchuheng.com](http://wuchuheng.com)
 - 🖋Check my  [Chinese blog](http://blog.wuchuheng.com/)
 
-<a href="https://github.com/appleboy">
+<a href="https://github.com/wuchuheng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuchuheng&show_icons=true&theme=merko&count_private=true" alt="Wuchuheng's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuchuheng&theme=merko&layout=compact" alt="Wuchuheng's github top languages" />
 </a>
@@ -18,7 +18,7 @@
 
 
 <!--
-**appleboy/appleboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wuchuheng/wuchuheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
