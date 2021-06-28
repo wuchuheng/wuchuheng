@@ -13,7 +13,7 @@
 </a>
 
 [![Github](https://img.shields.io/github/followers/wuchuheng?label=Follow&style=social)](https://github.com/wuchuheng)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wuchuheng.wuchuheng" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wuchuheng" alt="visitor badge"/> 
 
 
 <!--
