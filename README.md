@@ -12,7 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuchuheng&theme=merko&layout=compact" alt="Wuchuheng's github top languages" />
 </a>
 
+[![Github](https://img.shields.io/github/followers/wuchuheng?label=Follow&style=social)](https://github.com/wuchuheng)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wuchuheng.wuchuheng" alt="visitor badge"/> 
+
 
 <!--
 **appleboy/appleboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
