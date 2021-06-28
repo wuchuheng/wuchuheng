@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuchuheng&show_icons=true&theme=merko&count_private=true" alt="Wuchuheng's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuchuheng&theme=merko&layout=compact" alt="Wuchuheng's github top languages" />
 </a>
+<br>
 
 [![Github](https://img.shields.io/github/followers/wuchuheng?label=Follow&style=social)](https://github.com/wuchuheng)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wuchuheng" alt="visitor badge"/> 
