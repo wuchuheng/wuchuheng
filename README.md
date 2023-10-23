@@ -20,7 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=wuchuheng)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="httpgithub-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuchuheng/wuchuheng/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuchuheng/wuchuheng/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wuchuheng/wuchuheng/output/github-snake.svg" />
 </picture>
